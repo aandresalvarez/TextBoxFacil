@@ -2,7 +2,7 @@
 
 Some text areas are very small in REDCap. 
 
-Just press the combination "shift+spacebar" when you are working in any text area or input field. 
+Just press the combination "ctrl+spacebar" when you are working in any text area or input field. 
 Then, TextBoxFacil will be shown.
 TextBoxFacil is a bigger and dynamic text area 
 designed to help to edit formulas and texts when the size of the REDCap textboxes are too small to be edited confortably.
